@@ -4,6 +4,7 @@
 - Sound
 - Touchpad （partial）
 - USB
+- FileVaukt
 
 # Not working
 - Sleep
